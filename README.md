@@ -1,4 +1,6 @@
 # Statistical learning for climate models
+*Tony Lauze & Amine Razig*
+------------------------------------
 
 > **The purpose of this work is to see if learning methods, and more particularly methods using decision trees, can be more efficient than conventional linear models, for the prediction of gravity waves. First, we will present the database and the methodology used. Then we will report on the modeling tracks that have been discussed, and will highlight some results.**
 
@@ -12,7 +14,7 @@ However, current climate models – such as those used by the European Centre fo
 
 This is why it may be wise to use other methods to model gravity waves. In recent years, there has been a boom in the use of machine learning to account for gravity waves from the outputs of climate models. For example, Chantry, Mathew et al. (2021) [2] use neural networks to accelerate the parameterization of gravity waves.
 
-> See report of the project available in the directory:  [Séminaire_de_modélisation-2.pdf](./Séminaire_de_modélisation-2.pdf)
+> See report of the project available in the directory:  [Séminaire_de_modélisation-2.pdf](Séminaire_de_modélisation-2.pdf)
 ### Table des matières
 
 Introduction : les ondes de gravité 
