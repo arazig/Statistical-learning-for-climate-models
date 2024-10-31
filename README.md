@@ -1,6 +1,6 @@
 # Statistical learning for climate models
 *Tony Lauze & Amine Razig*
-------------------------------------
+
 
 > **The purpose of this work is to see if learning methods, and more particularly methods using decision trees, can be more efficient than conventional linear models, for the prediction of gravity waves. First, we will present the database and the methodology used. Then we will report on the modeling tracks that have been discussed, and will highlight some results.**
 
